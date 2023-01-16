@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	var number = 42
+	var number = 40
 
 	for {
 		var n = rand.Intn(100) + 1
